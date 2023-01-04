@@ -1,0 +1,283 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playlist 1",
+      "image": "file:///android_asset/image/ellykasim.png"
+    },
+      "id": 2,
+      "name_category": "Playlist 2",
+      "image": "file:///android_asset/image/odymalik.png"
+    },
+      "id": 3,
+      "name_category": "Playlist 3",
+      "image": "file:///android_asset/image/ucoksumbara.png"
+    },
+      "id": 4,
+      "name_category": "Playlist 4",
+      "image": "file:///android_asset/image/tiarramon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playlist 1",
+      "title": "Ampun Mandeh",
+      "image": "file:///android_asset/image/ellykasim.png",
+      "link_mp3": "mp3/ampun-mandeh.mp3",
+      "lyrics": "" },
+	{
+      "id": 2,
+      "name_category": "Playlist 1",
+      "title": "Anak Daro",
+      "image": "file:///android_asset/image/ellykasim.png",
+      "link_mp3": "mp3/anak-daro.mp3",
+      "lyrics": "" },
+	{
+      "id": 3,
+      "name_category": "Playlist 1",
+      "title": "Anak Salido",
+      "image": "file:///android_asset/image/ellykasim.png",
+      "link_mp3": "mp3/anak-salido.ogg",
+      "lyrics": "" },
+	{
+      "id": 4,
+      "name_category": "Playlist 1",
+      "title": "Anak Sipasan",
+      "image": "file:///android_asset/image/ellykasim.png",
+      "link_mp3": "mp3/anak-sipasan.ogg",
+      "lyrics": "" },
+	{
+      "id": 5,
+      "name_category": "Playlist 1",
+      "title": "Andam Oi",
+      "image": "file:///android_asset/image/ellykasim.png",
+      "link_mp3": "mp3/andam-oi.ogg",
+      "lyrics": "" },
+	{
+      "id": 6,
+      "name_category": "Playlist 1",
+      "title": "Ayam Den Lapeh",
+      "image": "file:///android_asset/image/ellykasim.png",
+      "link_mp3": "mp3/ayam-den-lapeh.mp3",
+      "lyrics": "" },
+	{
+      "id": 7,
+      "name_category": "Playlist 1",
+      "title": "Babendi Bendi",
+      "image": "file:///android_asset/image/ellykasim.png",
+      "link_mp3": "mp3/babendi-bendi.mp3",
+      "lyrics": "" },
+	{
+      "id": 8,
+      "name_category": "Playlist 1",
+      "title": "Badindin",
+      "image": "file:///android_asset/image/ellykasim.png",
+      "link_mp3": "mp3/badindin.mp3",
+      "lyrics": "" },
+	{
+      "id": 9,
+      "name_category": "Playlist 1",
+      "title": "bapisah-bukannyo-bacarai",
+      "image": "file:///android_asset/image/ellykasim.png",
+      "link_mp3": "mp3/bapisah-bukannyo-bacarai.ogg",
+      "lyrics": "" },
+	{
+      "id": 10,
+      "name_category": "Playlist 1",
+      "title": "Bareh Solok",
+      "image": "file:///android_asset/image/ellykasim.png",
+      "link_mp3": "mp3/bareh-solok.mp3",
+      "lyrics": "" },
+	{
+      "id": 11,
+      "name_category": "Playlist 2",
+      "title": "Bugih Lamo",
+      "image": "file:///android_asset/image/odymalik.png
+	  "link_mp3": "mp3/bugih-lamo.ogg",
+      "lyrics": "" },
+	{
+      "id": 12,
+      "name_category": "Playlist 2",
+      "title": "Cinto Jan Bali",
+      "image": "file:///android_asset/image/odymalik.png
+	  "link_mp3": "mp3/cinto-jan-bali.ogg",
+      "lyrics": "" },
+	{
+      "id": 13,
+      "name_category": "Playlist 2",
+      "title": "Cugok Mancogok",
+      "image": "file:///android_asset/image/odymalik.png
+	  "link_mp3": "mp3/cugok-mancogok.mp3",
+      "lyrics": "" },
+	{
+      "id": 14,
+      "name_category": "Playlist 2",
+      "title": "Dayung Palinggam",
+      "image": "file:///android_asset/image/odymalik.png
+	  "link_mp3": "mp3/dayung-palinggam.mp3",
+      "lyrics": "" },
+	{
+      "id": 15,
+      "name_category": "Playlist 2",
+      "title": "Elo Pukek",
+      "image": "file:///android_asset/image/odymalik.png
+	  "link_mp3": "mp3/elo-pukek.ogg",
+      "lyrics": "" },
+	{
+      "id": 16,
+      "name_category": "Playlist 2",
+      "title": "Kambanglah Bungo",
+      "image": "file:///android_asset/image/odymalik.png
+	  "link_mp3": "mp3/kambanglah-bungo.mp3",
+      "lyrics": "" },
+	{
+      "id": 17,
+      "name_category": "Playlist 2",
+      "title": "Kampuang Nan Jauh Dimato",
+      "image": "file:///android_asset/image/odymalik.png
+	  "link_mp3": "mp3/kampuang-nan-jauh-dimato.mp3",
+      "lyrics": "" },
+	{
+      "id": 18,
+      "name_category": "Playlist 2",
+      "title": "Kasiah Tak Sampai",
+      "image": "file:///android_asset/image/odymalik.png
+	  "link_mp3": "mp3/kasiah-tak-sampai.ogg",
+      "lyrics": "" },
+	{
+      "id": 19,
+      "name_category": "Playlist 2",
+      "title": "Lah Laruik Sanjo",
+      "image": "file:///android_asset/image/odymalik.png
+	  "link_mp3": "mp3/lah-laruik-sanjo.ogg",
+      "lyrics": "" },
+	{
+      "id": 20,
+      "name_category": "Playlist 2",
+      "title": "Malam Bainai",
+      "image": "file:///android_asset/image/odymalik.png
+	  "link_mp3": "mp3/malam-bainai.mp3",
+      "lyrics": "" },
+	{
+      "id": 21,
+      "name_category": "Playlist 3",
+      "title": "Mudiak Arau",
+      "image": "file:///android_asset/image/ucoksumbara.png",
+      "link_mp3": "mp3/mudiak-arau.mp3",
+      "lyrics": "" },
+	{
+      "id": 22,
+      "name_category": "Playlist 3",
+      "title": "Pasan Mandeh",
+      "image": "file:///android_asset/image/ucoksumbara.png",
+      "link_mp3": "mp3/pasan-mandeh.mp3",
+      "lyrics": "" },
+	{
+      "id": 23,
+      "name_category": "Playlist 3",
+      "title": "Pulanglah Uda",
+      "image": "file:///android_asset/image/ucoksumbara.png",
+      "link_mp3": "mp3/pulanglah-uda.mp3",
+      "lyrics": "" },
+	{
+      "id": 24,
+      "name_category": "Playlist 3",
+      "title": "Rang Talu",
+      "image": "file:///android_asset/image/ucoksumbara.png",
+      "link_mp3": "mp3/rang-talu.ogg",
+      "lyrics": "" },
+	{
+      "id": 25,
+      "name_category": "Playlist 3",
+      "title": "Risaulai",
+      "image": "file:///android_asset/image/ucoksumbara.png",
+      "link_mp3": "mp3/risaulai.mp3",
+      "lyrics": "" },
+	{
+      "id": 26,
+      "name_category": "Playlist 3",
+      "title": "Sapucuak Surek",
+      "image": "file:///android_asset/image/ucoksumbara.png",
+      "link_mp3": "mp3/sapucuak-surek.ogg",
+      "lyrics": "" },
+	{
+      "id": 27,
+      "name_category": "Playlist 3",
+      "title": "Simpang Ampek",
+      "image": "file:///android_asset/image/ucoksumbara.png",
+      "link_mp3": "mp3/simpang-ampek.mp3",
+      "lyrics": "" },
+	{
+      "id": 28,
+      "name_category": "Playlist 4",
+      "title": "Si Paku Gelang",
+      "image": "file:///android_asset/image/tiarramon.png",
+      "link_mp3": "mp3/si-paku-gelang.mp3",
+      "lyrics": "" },
+	{
+      "id": 29,
+      "name_category": "Playlist 4",
+      "title": "Takicuah Di Nan Tarang",
+      "image": "file:///android_asset/image/tiarramon.png",
+      "link_mp3": "mp3/takicuah-di-nan-tarang.mp3",
+      "lyrics": "" },
+	{
+      "id": 30,
+      "name_category": "Playlist 4",
+      "title": "Tak Tontong",
+      "image": "file:///android_asset/image/tiarramon.png",
+      "link_mp3": "mp3/tak-tontong.mp3",
+      "lyrics": "" },
+	{
+      "id": 31,
+      "name_category": "Playlist 4",
+      "title": "tanti-batanti",
+      "image": "file:///android_asset/image/tiarramon.png",
+      "link_mp3": "mp3/tanti-batanti.ogg",
+      "lyrics": "" } 
+	{
+      "id": 32,
+      "name_category": "Playlist 4",
+      "title": "Tinggalah Kampuang",
+      "image": "file:///android_asset/image/tiarramon.png",
+      "link_mp3": "mp3/tinggalah-kampuang.mp3",
+      "lyrics": "" },
+	{
+      "id": 33,
+      "name_category": "Playlist 4",
+      "title": "Ubekkan Denai",
+      "image": "file:///android_asset/image/tiarramon.png",
+      "link_mp3": "mp3/ubekkan-denai.mp3",
+      "lyrics": "" }
+	}
+  ]
+}
