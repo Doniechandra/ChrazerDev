@@ -3,7 +3,7 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978xxx",
       "main_ads_intertitial":"ca-app-pub-2893565521878323/4618409420",
       "main_ads_natives":"ca-app-pub-2893565521878323/8073335052",
       "main_ads_rewards":"",
@@ -18,11 +18,11 @@
       "interval_intertitial": 2,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "Insurance",
-      "high_paying_keyword_2": "Loans",
-      "high_paying_keyword_3": "Mortgage",
-      "high_paying_keyword_4": "Attorney",
-      "high_paying_keyword_5": "Credit",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://"
     }
